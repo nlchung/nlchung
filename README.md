@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! 👋
+
+## About Me
+I'm a first-year Computer Engineering student at the University of Waterloo.
 
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
