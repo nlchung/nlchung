@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Nicole Chung, a first-year Computer Engineering student at the University of Waterloo.
+I'm Nicole Chung, a first-year Computer Engineering student @uWaterloo.
 
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
