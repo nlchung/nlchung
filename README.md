@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Nicole Chung, a first-year Computer Engineering student at the University of Waterloo
+I'm Nicole Chung, a first-year Computer Engineering student at the University of Waterloo.
 
 
 📫 Reach out to me at nlchung@uwaterloo.ca to have a chat!
