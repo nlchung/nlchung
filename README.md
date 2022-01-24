@@ -1,7 +1,7 @@
-# Hi! 👋
+### Hi! 👋
 I'm Nicole Chung, a first-year Computer Engineering student at the University of Waterloo.
 
-## About Me!
+## About Me
 
 🌱 I’m currently learning various languages and frameworks through creating personal projects *(MERN, at the moment)*
 
