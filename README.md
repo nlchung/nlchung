@@ -2,7 +2,7 @@
 I'm Nicole Chung, a first-year Computer Engineering student at the University of Waterloo
 
 
-📫 How to reach me: nlchung@uwaterloo.ca
+📫 Reach out to me at nlchung@uwaterloo.ca to have a chat!
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
