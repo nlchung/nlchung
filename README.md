@@ -3,9 +3,9 @@ I'm Nicole Chung, a first-year Computer Engineering student at the University of
 
 ## About Me
 
-🌱 I’m currently learning various languages and frameworks through creating personal projects *(MERN, at the moment)*
+🌱 I’m currently learning various languages and frameworks through creating personal projects
 
-🔭 I’m in search of a software developer internship for Summer 2022
+🔭 I’m in search of a software developer co-op for Summer 2022
 
 📫 You can contact me at nlchung@uwaterloo.ca or <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a>
 
