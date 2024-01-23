@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi! 👋
+I'm Nicole Chung, a Computer Engineering student at the University of Waterloo.
+
+## About Me
+
+🌱 I’m constantly learning through pursuing passion projects! Currently, I'm working on a travel-related web app and getting familiar with TypeScript and React.
+
+🔭 I’m in search of a software engineering co-op for Summer or Fall 2024
+
+📫 You can contact me at <a href="mailto:nlchung@uwaterloo.ca">nlchung@uwaterloo.ca</a> or <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a>
+
+💬 You can reach out to chat with me about:
+- volleyball 🏐
+- skiing ⛷
+- Vancouver ⛰️
+- travel 🛩
+- crochet 🧶
+- Waterloo 🦢
+- or anything at all!
 
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
