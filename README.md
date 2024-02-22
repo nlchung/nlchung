@@ -3,7 +3,8 @@ I'm Nicole Chung, a Computer Engineering student at the University of Waterloo.
 
 ## About Me
 
-🌱 I’m constantly learning through pursuing passion projects! Currently, I'm working on a travel-related web app and getting familiar with TypeScript and React.
+🌱 I’m constantly learning through pursuing passion projects! 
+Currently, I'm working on a collaborative trip planning web app to get familiar with TypeScript and React, and developing firmware for the remote control of an E-Skateboard!
 
 🔭 I’m in search of a software engineering co-op for Summer or Fall 2024
 
