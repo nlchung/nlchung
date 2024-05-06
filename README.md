@@ -3,7 +3,7 @@ I'm Nicole Chung, a Computer Engineering student at the University of Waterloo.
 
 ## About Me
 
-🌱 I’m constantly learning through various passion projects! Currently, I'm working on a discord bot and writing firmware for an E-Skateboard as part of Electrium Mobility (UWaterloo Design Team)!
+🌱 I’m constantly learning through various passion projects! Currently, I'm working with Electrium Mobility (UWaterloo Design Team) on their discord server's bot, and writing firmware for an E-Skateboard!
 
 🔭 I’m in search of a software engineering co-op for Jan-Apr 2025
 
