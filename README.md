@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi!
 I'm Nicole Chung, a Computer Engineering student at the University of Waterloo.
 
 ## About Me
