@@ -8,7 +8,7 @@ I'm Nicole Chung, I'm a Computer Engineering student at the University of Waterl
 🔭 I’m in search of a 4-month software engineering co-op for January or May start date in 2025 :)
 
 📚 My favorite books right now are: <br>
-- <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a "multilayered [fictional] novel about friendship, love, and video games". <br>
+- <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a "multilayered novel about friendship, love, and video games". <br>
 - <a href="https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels?from_search=true&from_srp=true&qid=3qlFXQtbtg&rank=1">Blood, Sweat, and Pixels by Jason Schreier</a>, an enticing non-fiction read on the real-life struggles and successes behind popular video games. This is one of the books Gabrielle Zevin cited in the acknowledgements of her novel!
 
 💬 Feel free to reach out to chat with me about:
