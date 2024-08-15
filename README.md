@@ -3,7 +3,7 @@ I'm Nicole Chung, I'm a Computer Engineering student at the University of Waterl
 
 ## About Me
 
-🌱 Currently, I'm working with Electrium Mobility (a UWaterloo Design Team) developing their discord server's bot and configuring the backend of their React/Typescript website! Alongside the Leetcode grind, I'm also completing CodeAcademy's TypeScript course and working on a personal website.
+🌱 Currently, I'm working with Electrium Mobility (a UWaterloo Design Team) developing their discord server's bot and configuring the backend of their React/Typescript website! I'm also completing CodeAcademy's TypeScript course and working on a personal website.
 
 🔭 I’m in search of a 4-month software engineering co-op for January or May start date in 2025 :)
 
