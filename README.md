@@ -3,20 +3,25 @@ I'm Nicole Chung, I'm a Computer Engineering student at the University of Waterl
 
 ## About Me
 
-🌱 Currently, I'm working with Electrium Mobility (a UWaterloo Design Team) developing their discord server's bot, configuring the backend of their React/Typescript website, and writing firmware for their E-Skateboard's custom remote!
+🌱 Currently, I'm working with Electrium Mobility (a UWaterloo Design Team) developing their discord server's bot and configuring the backend of their React/Typescript website! Alongside the Leetcode grind, I'm also completing CodeAcademy's TypeScript course and working on a personal website.
 
-🔭 I’m in search of a software engineering co-op for Jan-Apr 2025 :)
+🔭 I’m in search of a 4-month software engineering co-op for January or May start date in 2025 :)
 
-📫 You can contact me at <a href="mailto:nlchung@uwaterloo.ca">nlchung@uwaterloo.ca</a> or <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a>
+📚 My favorite books right now are: <br>
+- <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a "multilayered [fictional] novel about friendship, love, and video games". <br>
+- <a href="https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels?from_search=true&from_srp=true&qid=3qlFXQtbtg&rank=1">Blood, Sweat, and Pixels by Jason Schreier</a>, an enticing non-fiction read on the real-life struggles and successes behind popular video games. This is one of the books Gabrielle Zevin cited in the acknowledgements of her novel!
 
-💬 You can reach out to chat with me about:
+💬 Feel free to reach out to chat with me about:
 - volleyball 🏐
 - skiing ⛷
 - Vancouver ⛰️
 - crochet 🧶
+- books 📚
 - games 🕹️
 - Waterloo 🦢
 - or anything at all!
+
+📫 You can contact me at <a href="mailto:nlchung@uwaterloo.ca">nlchung@uwaterloo.ca</a> or <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a>
 
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
