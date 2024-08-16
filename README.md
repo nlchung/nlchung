@@ -1,5 +1,5 @@
 ### Hi!
-I'm Nicole, a Computer Engineering student at the University of Waterloo and I’m constantly learning through various passion projects! 
+I'm Nicole, a Computer Engineering student at the University of Waterloo, and I’m constantly learning through various passion projects! 
 
 ## About Me
 
