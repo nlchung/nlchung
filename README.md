@@ -21,7 +21,7 @@ I'm Nicole, a Computer Engineering student at the University of Waterloo, and I�
 - Waterloo 🦢
 - or anything at all!
 
-📫 You can contact me at <a href="mailto:nlchung@uwaterloo.ca">nlchung@uwaterloo.ca</a> or <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a>
+📫 You can contact me on <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a> :)
 
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
