@@ -1,15 +1,16 @@
-### Hi!
-I'm Nicole, a Computer Engineering student at the University of Waterloo, and I’m constantly learning through various passion projects! 
+### Hi! I'm Nicole and I’m constantly learning through various passion projects ♥︎
 
 ## About Me
 
-🌱 Currently, I'm working with Electrium Mobility (a UWaterloo Design Team) developing their discord server's bot and configuring the backend of their React/Typescript website! I'm also completing CodeAcademy's TypeScript course and working on a personal website.
+🌱 I am currently completing my third year of computer engineering at UWaterloo!
 
-🔭 I’m in search of a 4-month software engineering co-op for January or May start date in 2025 :)
+My favorite course right now is <a href="https://uwflow.com/course/ece350">Real-Time Operating Systems</a>, a continuation of <a href="https://uwflow.com/course/ece252">Systems Programming and Concurrency</a> from last term. Other courses I am currently enjoying include <a href="https://uwflow.com/course/ece327">Digital Hardware Systems</a> and <a href="https://uwflow.com/course/ece380">Analog Control Systems</a> :)
+
+🔭 I’m actively seeking a software engineering co-op with a start date of January or May 2026
 
 📚 My favorite books right now are: <br>
-- <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a "multilayered novel about friendship, love, and video games". <br>
-- <a href="https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels?from_search=true&from_srp=true&qid=3qlFXQtbtg&rank=1">Blood, Sweat, and Pixels by Jason Schreier</a>, an enticing non-fiction read on the real-life struggles and successes behind popular video games. This is one of the books Gabrielle Zevin cited in the acknowledgements of her novel!
+- <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a fictional "multilayered novel about friendship, love, and video games". <br>
+- <a href="https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels?from_search=true&from_srp=true&qid=3qlFXQtbtg&rank=1">Blood, Sweat, and Pixels by Jason Schreier</a>, an enticing non-fiction read on the real-life struggles and successes behind popular video games. This book is one of the sources cited for research in the aforementioned novel!
 
 💬 Feel free to reach out to chat with me about:
 - volleyball 🏐
@@ -21,7 +22,7 @@ I'm Nicole, a Computer Engineering student at the University of Waterloo, and I�
 - Waterloo 🦢
 - or anything at all!
 
-📫 You can contact me on <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a> :)
+📫 Connect with me on <a href="https://www.linkedin.com/in/nlchung/"> LinkedIn</a>
 
 <!--
 **nlchung/nlchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
