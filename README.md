@@ -4,9 +4,9 @@
 
 🌱 I am currently completing my third year of computer engineering at UWaterloo!
 
-My favorite course right now is <a href="https://uwflow.com/course/ece350">Real-Time Operating Systems</a>, a continuation of <a href="https://uwflow.com/course/ece252">Systems Programming and Concurrency</a> from last term. Other courses I am currently enjoying include <a href="https://uwflow.com/course/ece327">Digital Hardware Systems</a> and <a href="https://uwflow.com/course/ece380">Analog Control Systems</a> :)
-
 🔭 I’m actively seeking a software engineering co-op with a start date of May or Sept 2026
+
+🏫 My favorite course this term is <a href="https://uwflow.com/course/ece722">Reconfigurable Computing</a>, a new course offered only this term on FPGAs! Other courses I am currently intrigued by include <a href="https://uwflow.com/course/ece307">Stats & Probability</a> and <a href="https://uwflow.com/course/ece358">Computer Networks</a> :)
 
 📚 My favorite books right now are: <br>
 - <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a fictional "multilayered novel about friendship, love, and video games". <br>
