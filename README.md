@@ -6,7 +6,7 @@
 
 My favorite course right now is <a href="https://uwflow.com/course/ece350">Real-Time Operating Systems</a>, a continuation of <a href="https://uwflow.com/course/ece252">Systems Programming and Concurrency</a> from last term. Other courses I am currently enjoying include <a href="https://uwflow.com/course/ece327">Digital Hardware Systems</a> and <a href="https://uwflow.com/course/ece380">Analog Control Systems</a> :)
 
-🔭 I’m actively seeking a software engineering co-op with a start date of January or May 2026
+🔭 I’m actively seeking a software engineering co-op with a start date of May or Sept 2026
 
 📚 My favorite books right now are: <br>
 - <a href="https://www.goodreads.com/book/show/58784475-tomorrow-and-tomorrow-and-tomorrow">Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin</a>, a fictional "multilayered novel about friendship, love, and video games". <br>
